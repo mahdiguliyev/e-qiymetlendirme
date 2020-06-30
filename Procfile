@@ -1,0 +1,1 @@
+web: evaluation.wsgi --log-file -
